@@ -1,0 +1,43 @@
+#caracter{
+  width: 400px;
+  height: 350px;
+  background-color: #FF6787;
+  display: block;
+  margin: auto;
+  margin-top:45px;
+  margin-bottom: 45px;
+}
+.highlight{
+  opacity: 0.5;
+}
+#container{
+  margin: auto;
+}
+#up{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: #004358;
+  float: left;
+}
+#down{
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #FFE11A;
+  float:left;
+}
+#right{
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #FD7400;
+  float:left;
+}
+#left{
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #F16950;
+  float: left;
+}
